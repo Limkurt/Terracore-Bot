@@ -1,0 +1,2 @@
+username1:active:posting
+username2:active:posting
